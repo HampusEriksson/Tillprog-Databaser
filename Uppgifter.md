@@ -18,7 +18,7 @@ Hämta namnet på huvudstaden i Zimbabwe
 
 ### Uppgift 3
 
-Hämta namnen på alla städer i Sverige
+Hämta namnen på alla länder som börjar på bokstaven "S".
 
 ### Uppgift 4
 
@@ -26,60 +26,41 @@ Hämta namnen på alla länder som har en befolkning på över 100 miljoner män
 
 ### Uppgift 5
 
-Hämta namnen på alla städer som har en befolkning på över 1 miljon människor och som är belägna i Europa
+Hämta namnen på alla städer i databasen i bokstavsordning.
 
 ### Uppgift 6
 
-Hämta en lista över alla länder i Asien med information om landets namn, huvudstad och befolkning.
+Hämta namnen på alla städer i Sverige
 
 ### Uppgift 7
 
-Hämta namnen på alla städer i databasen i bokstavsordning.
+Hämta namn och population på alla länder som har större population än Sverige
 
 ### Uppgift 8
 
-Hämta namnen på alla länder som börjar på bokstaven "S".
+Hämta information om alla städer som har en befolkning på mellan 1 miljon och 5 miljoner människor.
 
 ### Uppgift 9
 
-Hämta namn och population på alla länder som har större population än Sverige
+Hämta namnen på alla länder i Europa och Asien.
 
 ### Uppgift 10
 
-Hämta en lista över alla huvudstäder i Europa med information om stadens namn, land och befolkning, sorterad i stigande ordning efter befolkning.
+Lista de tio största länderna i världen baserat på deras totala yta (inklusive vatten och land).
 
 ### Uppgift 11
 
-Hämta namnen på alla länder i Europa och Asien.
+Hämta namnen på alla städer som har en befolkning på över 1 miljon människor och som är belägna i Europa
 
 ### Uppgift 12
 
+Hämta en lista över alla huvudstäder i Europa med information om stadens namn, land och befolkning, sorterad i stigande ordning efter befolkning.
+
 ### Uppgift 13
+
+Hämta medellängden på alla floder som är längre än 1000 kilometer, och ge resultatet ett alias som "medellängd".
 
 ### Uppgift 14
 
-Hämta en lista över alla europeiska länder med en befolkning på över 50 miljoner människor. Sortera listan i alfabetisk ordning efter landets namn och visa antalet städer i varje land.
-
-### Uppgift 15
-
-Hämta information om alla städer som har en befolkning på mellan 1 miljon och 5 miljoner människor.
-Hämta medellängden på alla floder som är längre än 1000 kilometer, och ge resultatet ett alias som "medellängd".
-Hämta namnen på alla städer i Tyskland tillsammans med deras befolkning och namnet på det tillhörande landet.
-Lista de tio största länderna i världen baserat på deras totala yta (inklusive vatten och land).
-
-Hämta namnen på alla länder i databasen
-Hämta namnet på huvudstaden i Zimbabwe
-Hämta namnen på alla städer i Sverige
-Hämta namnen på alla länder som har en befolkning på över 100 miljoner människor
-Hämta namnen på alla städer som har en befolkning på över 1 miljon människor och som är belägna i Europa
-Hämta namn och population på alla länder som har större population än Sverige
-Hämta namnen på alla städer i databasen i bokstavsordning.
-Hämta namnen på alla länder som börjar på bokstaven "S".
-Hämta en lista över alla länder i Asien med information om landets namn, huvudstad och befolkning.
-Hämta namn och befolkning på alla huvudstäder i Europa sorterat i stigande ordning efter befolkning.
-Hämta namnen på alla länder i Europa och Asien.
-Hämta en lista över alla europeiska länder med en befolkning på över 50 miljoner människor och antalet städer i varje land.
-Hämta information om alla städer som har en befolkning på mellan 1 miljon och 5 miljoner människor.
-Hämta medellängden på alla floder som är längre än 1000 kilometer och ge resultatet ett alias som "medellängd".
-Hämta namnen på alla städer i Tyskland tillsammans med deras befolkning och namnet på det tillhörande landet.
-Lista de tio största länderna i världen baserat på deras totala yta (inklusive vatten och land).
+Hämta namnen på alla europeiska länder med en befolkning på över 50 miljoner människor.
+Sortera listan i alfabetisk ordning efter landets namn och visa antalet städer i varje land.
