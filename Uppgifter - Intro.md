@@ -61,6 +61,9 @@ Hämta en lista över alla huvudstäder i Europa med information om stadens namn
 Hämta medellängden på alla floder som är längre än 1000 kilometer, och ge resultatet ett alias som "medellängd".
 
 ### Uppgift 14
+Hämta en lista på alla länder som är medlemmar av NATO
+
+### Uppgift 15
 
 Hämta namnen på alla europeiska länder med en befolkning på över 50 miljoner människor.
 Sortera listan i alfabetisk ordning efter landets namn och visa antalet städer i varje land.
