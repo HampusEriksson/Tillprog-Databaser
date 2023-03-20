@@ -12,6 +12,7 @@
 ### Uppgift 1
 Ta fram en tabell med som räknar hur många länder i varje kontinent som har fler än 10 provinser och en huvudstad med mer än 5 miljoner invånare.
 
+#### Exempel korrekt utskrif
 Continent | count
 ------------- | -------------
 Africa | 2
