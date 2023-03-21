@@ -7,7 +7,7 @@
 - [Gör övningar på w3schools](https://www.w3schools.com/sql/exercise.asp)
 - [SQL Tutorial - w3schools](https://www.w3schools.com/sql/)
 - Intro Syntax: Select, Where, Order by, Functions, Like, Wildcards, In, Between, Alias, Join, Group by
-- Avancerat Syntax: Subqueries,
+- Avancerat Syntax: Subqueries, Having, Union, CTE (Common Table Expression)
 
 ### Uppgift 1
 
