@@ -43,10 +43,11 @@ Hämta information om alla städer som har en befolkning på mellan 1 miljon och
 ### Uppgift 9
 
 Hämta namnen på alla länder i Europa och Asien.
+Tips: Använd tabellen encompasses
 
 ### Uppgift 10
 
-Lista de tio största länderna i världen baserat på deras totala yta (inklusive vatten och land).
+Lista de tio största länderna i världen baserat på deras totala yta/area
 
 ### Uppgift 11
 

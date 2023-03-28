@@ -25,7 +25,7 @@ Ta fram en tabell med som räknar hur många länder i varje kontinent som har f
 
 ### Uppgift 2
 
-Räkna ut ration mellan städer som är landlockade och har över 3 miljoner invånare och alla städer som har över 3 miljoner invånare.
+Räkna ut ration mellan antal städer som är landlockade och har över 3 miljoner invånare och alla städer som har över 3 miljoner invånare.
 En landlockat stad är en stad som varken har floder (river), sjöar(lakes) eller hav(seas) nära sig.
 Tips: Använd tabellen located
 
@@ -62,6 +62,7 @@ Ta fram en lista på de länder som har ett antal boarders som är det minsta an
 ### Uppgift 5
 
 Ta fram en lista på alla länder som inte har några öar.
+Tips: Använd tabellen geo_Island
 
 #### Exempel korrekt utskrift
 
