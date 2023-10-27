@@ -6,17 +6,9 @@ A crime has taken place and the detective needs your help. The detective gave yo
 
 ## The tables
 
-Check out the schema.png for the table structure
+Check out the [Schema](https://github.com/HampusEriksson/Tillprog---Databaser/blob/main/Murder%20mystery/schema.png) for the table structure
 
 ### crime_scene_report
-
-#### date
-
-#### type
-
-#### description
-
-#### city
 
 ### drivers_license
 
