@@ -20,7 +20,7 @@ Hämta namnen på alla länder i databasen
 | Sweden      |
 | Norway      |
 | Denmark     |
-| Germany     |
+| ...         |
 
 ### Uppgift 2
 
@@ -38,14 +38,14 @@ Hämta namnen på alla länder som börjar på bokstaven "S".
 
 #### Exempel korrekt utskrift
 
-| CountryName  |
-| ------------ |
-| Sweden       |
-| Spain        |
-| Switzerland  |
-| Singapore    |
-| South Korea  |
-| Saudi Arabia |
+| CountryName |
+| ----------- |
+| Sweden      |
+| Spain       |
+| Switzerland |
+| Singapore   |
+| South Korea |
+| ...         |
 
 ### Uppgift 4
 
@@ -57,7 +57,7 @@ Hämta namnen på alla länder som har en befolkning på över 100 miljoner män
 | India         |
 | United States |
 | Indonesia     |
-| Pakistan      |
+| ...           |
 
 ### Uppgift 5
 
