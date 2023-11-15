@@ -27,12 +27,12 @@ Hämta namnen på alla länder i databasen
 
 #### Exempel korrekt utskrift
 
-| CountryName |
-| ----------- |
-| Sweden      |
-| Norway      |
-| Denmark     |
-| ...         |
+| Name    |
+| ------- |
+| Sweden  |
+| Norway  |
+| Denmark |
+| ...     |
 
 ### Uppgift 2
 
@@ -40,9 +40,9 @@ Hämta namnet på huvudstaden i Zimbabwe
 
 #### Exempel korrekt utskrift
 
-| CapitalName |
-| ----------- |
-| Harare      |
+| Name   |
+| ------ |
+| Harare |
 
 ### Uppgift 3
 
@@ -50,7 +50,7 @@ Hämta namnen på alla länder som börjar på bokstaven "S".
 
 #### Exempel korrekt utskrift
 
-| CountryName |
+| Name        |
 | ----------- |
 | Sweden      |
 | Spain       |
@@ -63,7 +63,7 @@ Hämta namnen på alla länder som börjar på bokstaven "S".
 
 Hämta namnen på alla länder som har en befolkning på över 100 miljoner människor
 
-| CountryName   |
+| Name          |
 | ------------- |
 | China         |
 | India         |
@@ -77,7 +77,7 @@ Hämta namnen på alla städer i databasen i bokstavsordning.
 
 #### Exempel korrekt utskrift
 
-| CityName  |
+| Name      |
 | --------- |
 | Barcelona |
 | Berlin    |
@@ -93,7 +93,7 @@ Hämta namnen på alla städer i Sverige
 
 #### Exempel korrekt utskrift
 
-| CityName   |
+| Name       |
 | ---------- |
 | Stockholm  |
 | Gothenburg |
@@ -107,7 +107,7 @@ Hämta namn och population på alla länder som har större population än Sveri
 
 #### Exempel korrekt utskrift
 
-| CountryName   | Population |
+| Name          | Population |
 | ------------- | ---------- |
 | China         | 1400000000 |
 | India         | 1350000000 |
@@ -120,7 +120,7 @@ Hämta information om alla städer som har en befolkning på mellan 1 miljon och
 
 #### Exempel korrekt utskrift
 
-| CityName  | Population |
+| Name      | Population |
 | --------- | ---------- |
 | Barcelona | 1600000    |
 | Berlin    | 3700000    |
@@ -130,17 +130,16 @@ Hämta information om alla städer som har en befolkning på mellan 1 miljon och
 ### Uppgift 9
 
 Hämta namnen på alla länder i Europa och Asien.
-Tips: Använd tabellen encompasses
 
 #### Exempel korrekt utskrift
 
-| CountryName |
-| ----------- |
-| France      |
-| Germany     |
-| China       |
-| India       |
-| ...         |
+| Name    |
+| ------- |
+| France  |
+| Germany |
+| China   |
+| India   |
+| ...     |
 
 ### Uppgift 10
 
@@ -148,12 +147,12 @@ Lista de tio största länderna i världen baserat på deras totala yta/area
 
 #### Exempel korrekt utskrift
 
-| CountryName   | TotalArea |
-| ------------- | --------- |
-| Russia        | 17098242  |
-| Canada        | 9984670   |
-| United States | 9826675   |
-| ...           | ...       |
+| Name          | Area     |
+| ------------- | -------- |
+| Russia        | 17098242 |
+| Canada        | 9984670  |
+| United States | 9826675  |
+| ...           | ...      |
 
 ### Uppgift 11
 
@@ -161,11 +160,11 @@ Hämta namnen på alla städer som har en befolkning på över 1 miljon människ
 
 #### Exempel korrekt utskrift
 
-| CityName | Population |
-| -------- | ---------- |
-| Berlin   | 3700000    |
-| Madrid   | 3200000    |
-| ...      | ...        |
+| Name   | Population |
+| ------ | ---------- |
+| Berlin | 3700000    |
+| Madrid | 3200000    |
+| ...    | ...        |
 
 ### Uppgift 12
 
@@ -197,7 +196,7 @@ Hämta en lista på alla länder som är medlemmar av NATO
 
 #### Exempel korrekt utskrift
 
-| CountryName    |
+| Name           |
 | -------------- |
 | United States  |
 | United Kingdom |
@@ -210,11 +209,11 @@ Sortera listan i alfabetisk ordning efter landets namn och visa antalet städer 
 
 #### Exempel korrekt utskrift
 
-| CountryName | NumCities |
-| ----------- | --------- |
-| France      | 1         |
-| Germany     | 1         |
-| ...         | ...       |
+| Name    | City_Count |
+| ------- | ---------- |
+| France  | 1          |
+| Germany | 1          |
+| ...     | ...        |
 
 ### Uppgift 16
 
@@ -252,6 +251,7 @@ Ta fram antal länder som har ett visst antal berg där antalet berg är över s
 | ------------- | ------------- |
 | 5             | 5             |
 | 5             | 8             |
+| ...           | ...           |
 
 ### Uppgift 19
 
@@ -265,6 +265,7 @@ Ta fram en lista på de länder som har ett antal boarders som är det minsta an
 | Canada  | 1        |
 | Ceuta   | 1        |
 | Denmark | 1        |
+| ...     | ...      |
 
 ### Uppgift 20
 
@@ -280,6 +281,7 @@ Tips: Använd tabellen geo_Island
 | Azerbaijan  |
 | Bahrain     |
 | Belarus     |
+| ...         |
 
 ### Uppgift 21
 
@@ -339,6 +341,7 @@ Ta fram en tabell med namn på städer och relaterade flygplatser för alal stä
 | Mexico City, Mexico | Mexico City International Airport    |
 | Quito, Ecuador      | Mariscal Sucre International Airport |
 | La Paz, Bolivia     | El Alto International Airport        |
+| ...                 | ...                                  |
 
 ### Uppgift 26
 
@@ -355,6 +358,7 @@ Ta fram en tabell över länder med deras ratio mellan deras senaste rapporterad
 | Brazil        | 44               |
 | Pakistan      | 31               |
 | Nigeria       | 39               |
+| ...           | ...              |
 
 ### Uppgift 27
 
