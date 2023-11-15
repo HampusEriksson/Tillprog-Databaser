@@ -7,6 +7,19 @@
 - [Gör övningar på w3schools](https://www.w3schools.com/sql/exercise.asp)
 - [SQL Tutorial - w3schools](https://www.w3schools.com/sql/)
 - Intro Syntax: Select, Where, Order by, Functions, Like, Wildcards, In, Between, Alias, Join, Group by
+- Du kan använda INNER JOIN för alla joins i dessa uppgifter
+
+### Tabeller som du behöver använda
+
+#### Countries - Info om länder
+
+#### City - Info om städer
+
+#### Encompasses - Info om vilka länder som ligger i vilka kontinenter
+
+#### River - Info om floder
+
+#### isMember - Info om vilka länder som är med i vilka organisationer
 
 ### Uppgift 1
 
@@ -43,7 +56,6 @@ Hämta information om alla städer som har en befolkning på mellan 1 miljon och
 ### Uppgift 9
 
 Hämta namnen på alla länder i Europa och Asien.
-Tips: Använd tabellen encompasses
 
 ### Uppgift 10
 
@@ -62,6 +74,7 @@ Hämta en lista över alla huvudstäder i Europa med information om stadens namn
 Hämta medellängden på alla floder som är längre än 1000 kilometer, och ge resultatet ett alias som "medellängd".
 
 ### Uppgift 14
+
 Hämta en lista på alla länder som är medlemmar av NATO
 
 ### Uppgift 15
