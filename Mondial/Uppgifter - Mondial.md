@@ -9,6 +9,18 @@
 - Intro Syntax: Select, Where, Order by, Functions, Like, Wildcards, In, Between, Alias, Join, Group by
 - Avancerat Syntax: Subqueries, Having, Union, CTE (Common Table Expression)
 
+### Tabeller som du behöver använda för uppgift 1-15
+
+#### Countries - Info om länder
+
+#### City - Info om städer
+
+#### Encompasses - Info om vilka länder som ligger i vilka kontinenter
+
+#### River - Info om floder
+
+#### isMember - Info om vilka länder som är med i vilka organisationer
+
 ### Uppgift 1
 
 Hämta namnen på alla länder i databasen
