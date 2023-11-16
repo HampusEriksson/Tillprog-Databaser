@@ -215,6 +215,12 @@ Sortera listan i alfabetisk ordning efter landets namn och visa antalet städer 
 | Germany | 1          |
 | ...     | ...        |
 
+### Nya tabeller som du behöver använda för 16-26
+
+#### Province - Info om provinser
+
+#### Located
+
 ### Uppgift 16
 
 Ta fram en tabell med som räknar hur många länder i varje kontinent som har fler än 10 provinser och en huvudstad med mer än 5 miljoner invånare.
@@ -232,7 +238,7 @@ Ta fram en tabell med som räknar hur många länder i varje kontinent som har f
 ### Uppgift 17
 
 Räkna ut ration mellan antal städer som är landlockade och har över 3 miljoner invånare och alla städer som har över 3 miljoner invånare.
-En landlockat stad är en stad som varken har floder (river), sjöar(lakes) eller hav(seas) nära sig.
+En landlockad stad är en stad som varken har floder (river), sjöar(lakes) eller hav(seas) nära sig.
 Tips: Använd tabellen located
 
 #### Exempel korrekt utskrift
@@ -377,7 +383,7 @@ Tips 2: Lös det enklare problemet med att beräkna de två städer som är län
 | --------- | ------ | ------ | ------------ |
 | Stockholm | Tokyo  | Madrid | 1234567      |
 
-### Uppgift 13
+### Uppgift 28
 
 Väldigt svår, över A-nivå
 
