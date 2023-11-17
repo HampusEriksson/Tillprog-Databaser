@@ -219,11 +219,19 @@ Sortera listan i alfabetisk ordning efter landets namn och visa antalet städer 
 
 #### Province - Info om provinser
 
-#### Located - Info om städers närhet till floder, sjöar och hav
+####
 
 #### geo_Mountain - Geografisk info om berg
 
 #### borders - info om angränsande länder
+
+#### geo_Island
+
+#### geo_Sea
+
+#### geo_Lake
+
+#### Lake
 
 ### Uppgift 16
 
@@ -243,7 +251,8 @@ Ta fram en tabell med som räknar hur många länder i varje kontinent som har f
 
 Räkna ut ration mellan antal städer som är landlockade och har över 3 miljoner invånare och alla städer som har över 3 miljoner invånare.
 En landlockad stad är en stad som varken har floder (river), sjöar(lakes) eller hav(seas) nära sig.
-Tips: Använd tabellen located
+
+#### Tips: Använd tabellen Located - Info om städers närhet till floder, sjöar och hav
 
 #### Exempel korrekt utskrift
 
@@ -286,7 +295,7 @@ Tips: Använd tabellen geo_Island
 
 #### Exempel korrekt utskrift
 
-| Country     |
+| Name        |
 | ----------- |
 | Afghanistan |
 | Armenia     |
@@ -298,27 +307,31 @@ Tips: Använd tabellen geo_Island
 ### Uppgift 21
 
 Ta fram förhållandet mellan inlandsprovinser (provinser som inte gränsar till något hav) och det totala antalet provinser.
+Tips: Använd tabellen geo_Sea
 
 #### Exempel korrekt utskrift
 
-| Ratio |
-| ----- |
-| 7.65  |
+| Ratio              |
+| ------------------ |
+| 0.5498154981549815 |
 
 ### Uppgift 22
 
-Ta fram en tabell med alla kontinenter och summan av areorna för alla sjöar som innehåller minst en ö för varje kontinent. Om en sjö ligger i ett land som är beläget på flera kontinenter ska den lämpliga andelen av sjöns area räknas för varje kontinent.
+Ta fram en tabell med alla kontinenter och summan av areorna för alla kontinentens sjöar(lake) som har ett djup på minst 50 m.
+Tänk på att sjöarna finns flera gånger i tabellen geo_Lake, detta måste du ta hänsyn till. Du måste inte ta hänsyn till att en sjö "har" flera länder, utan anta att alla länder som sjön ligger vid ligger i samma kontinent.
+Om en sjö ligger i ett land som är beläget på flera kontinenter ska den lämpliga andelen av sjöns area räknas för varje kontinent.
+
+Tips: Använd tabellen geo_Lake och lake
 
 #### Exempel korrekt utskrift
 
-| Continent     | Sum of lake areas with islands |
-| ------------- | ------------------------------ |
-| Africa        | 97,100 km²                     |
-| Asia          | 2,583 km²                      |
-| Europe        | 14,478 km²                     |
-| North America | 18,580 km²                     |
-| South America | 9,832 km²                      |
-| Oceania       | 49,360 km²                     |
+| Continent         | Total_deep_lake_area |
+| ----------------- | -------------------- |
+| Africa            | 161412.0 km2         |
+| America           | 344183.0 km2         |
+| Asia              | 1146755.0 km2        |
+| Australia/Oceania | 1203.0 km2           |
+| Europe            | 151792.0 km2         |
 
 ### Uppgift 23
 
