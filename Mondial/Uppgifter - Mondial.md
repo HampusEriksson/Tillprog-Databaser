@@ -215,27 +215,11 @@ Sortera listan i alfabetisk ordning efter landets namn och visa antalet städer 
 | Germany | 1          |
 | ...     | ...        |
 
-### Nya tabeller som du behöver använda för 16-26
-
-#### Province - Info om provinser
-
-####
-
-#### geo_Mountain - Geografisk info om berg
-
-#### borders - info om angränsande länder
-
-#### geo_Island
-
-#### geo_Sea
-
-#### geo_Lake
-
-#### Lake
-
 ### Uppgift 16
 
 Ta fram en tabell med som räknar hur många länder i varje kontinent som har fler än 10 provinser och en huvudstad med mer än 5 miljoner invånare.
+
+#### Använd tabellen Province för info om provinser
 
 #### Exempel korrekt utskrift
 
@@ -252,7 +236,7 @@ Ta fram en tabell med som räknar hur många länder i varje kontinent som har f
 Räkna ut ration mellan antal städer som är landlockade och har över 3 miljoner invånare och alla städer som har över 3 miljoner invånare.
 En landlockad stad är en stad som varken har floder (river), sjöar(lakes) eller hav(seas) nära sig.
 
-#### Tips: Använd tabellen Located - Info om städers närhet till floder, sjöar och hav
+#### Använd tabellen Located för info om städers närhet till floder, sjöar och hav
 
 #### Exempel korrekt utskrift
 
@@ -263,7 +247,8 @@ En landlockad stad är en stad som varken har floder (river), sjöar(lakes) elle
 ### Uppgift 18
 
 Ta fram antal länder som har ett visst antal berg där antalet berg är över snittet för berg per land.
-Tips: Använd tabellen geo_Mountain
+
+#### Använd tabellen geo_Mountain för geografisk info om berg
 
 #### Exempel korrekt utskrift
 
@@ -276,7 +261,8 @@ Tips: Använd tabellen geo_Mountain
 ### Uppgift 19
 
 Ta fram en lista på de länder som har ett antal boarders som är det minsta antal boarders som länder har (du måste använda MIN).
-Tips: Använd tabellen borders
+
+#### Använd tabellen borders för info om angränsande länder
 
 #### Exempel korrekt utskrift
 
@@ -291,7 +277,8 @@ Tips: Använd tabellen borders
 ### Uppgift 20
 
 Ta fram en lista på alla länder som inte har några öar.
-Tips: Använd tabellen geo_Island
+
+#### Använd tabellen geo_Island för geografisk info om öar
 
 #### Exempel korrekt utskrift
 
@@ -307,7 +294,8 @@ Tips: Använd tabellen geo_Island
 ### Uppgift 21
 
 Ta fram förhållandet mellan inlandsprovinser (provinser som inte gränsar till något hav) och det totala antalet provinser.
-Tips: Använd tabellen geo_Sea
+
+#### Använd tabellen geo_Sea för geografisk info om hav
 
 #### Exempel korrekt utskrift
 
@@ -321,7 +309,9 @@ Ta fram en tabell med alla kontinenter och summan av areorna för alla kontinent
 Tänk på att sjöarna finns flera gånger i tabellen geo_Lake, detta måste du ta hänsyn till. Du måste inte ta hänsyn till att en sjö "har" flera länder, utan anta att alla länder som sjön ligger vid ligger i samma kontinent.
 Om en sjö ligger i ett land som är beläget på flera kontinenter ska den lämpliga andelen av sjöns area räknas för varje kontinent.
 
-Tips: Använd tabellen geo_Lake och lake
+#### Använd tabellen geo_Lake för geografisk info om sjöar
+
+#### Använd tabellen Lake för info om sjöar
 
 #### Exempel korrekt utskrift
 
@@ -335,24 +325,31 @@ Tips: Använd tabellen geo_Lake och lake
 
 ### Uppgift 23
 
-Ta fram en tabell med de två kontinenterna som har den största och minsta populationstillväxt om 50 år givet nuvarande population och populationstillväxt. Ta även fram en ration mellan den beräknade populationen om 50 år samt nuvarande population.
+Ta fram en tabell med de två kontinenterna som har den största och minsta populationstillväxt om 1 år givet nuvarande population och populationstillväxt. Ta även fram en ration mellan den beräknade populationen om 1 år samt nuvarande population.
+
+#### Använd tabellen population för populations-ökning. I beskrivningen för databasen står det att ökningen är för ett år, men siffrorna verkar lite för höga för det. Bortse från detta faktum.
 
 #### Exempel korrekt utskrift
 
-| Continent | Pop_Increase | Ratio |
-| --------- | ------------ | ----- |
-| Afrika    | 955 miljoner | 2,1   |
-| Europa    | 28 miljoner  | 1,1   |
+| Continent         | Pop_Increase | Ratio |
+| ----------------- | ------------ | ----- |
+| Africa            | 3676484132   | 3.3   |
+| America           | 1832119758   | 1.92  |
+| Asia              | 8492108468   | 1.9   |
+| Australia/Oceania | 574692310    | 1.98  |
+| Europe            | 1017570086   | 1.22  |
 
 ### Uppgift 24
 
 Ta fram namnet på den organisation som har huvudkvarter i Europa, har "International" i namnet och har flest antal europeiska medlemsländer.
 
+####
+
 #### Exempel korrekt utskrift
 
-| Name |
-| ---- |
-| FBI  |
+| Name                                       |
+| ------------------------------------------ |
+| International Criminal Police Organization |
 
 ### Uppgift 25
 
