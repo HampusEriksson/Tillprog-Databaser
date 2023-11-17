@@ -219,7 +219,11 @@ Sortera listan i alfabetisk ordning efter landets namn och visa antalet städer 
 
 #### Province - Info om provinser
 
-#### Located
+#### Located - Info om städers närhet till floder, sjöar och hav
+
+#### geo_Mountain - Geografisk info om berg
+
+#### borders - info om angränsande länder
 
 ### Uppgift 16
 
@@ -250,6 +254,7 @@ Tips: Använd tabellen located
 ### Uppgift 18
 
 Ta fram antal länder som har ett visst antal berg där antalet berg är över snittet för berg per land.
+Tips: Använd tabellen geo_Mountain
 
 #### Exempel korrekt utskrift
 
@@ -262,16 +267,17 @@ Ta fram antal länder som har ett visst antal berg där antalet berg är över s
 ### Uppgift 19
 
 Ta fram en lista på de länder som har ett antal boarders som är det minsta antal boarders som länder har (du måste använda MIN).
+Tips: Använd tabellen borders
 
 #### Exempel korrekt utskrift
 
-| country | boarders |
-| ------- | -------- |
-| Brunei  | 1        |
-| Canada  | 1        |
-| Ceuta   | 1        |
-| Denmark | 1        |
-| ...     | ...      |
+| country | borders |
+| ------- | ------- |
+| Brunei  | 1       |
+| Canada  | 1       |
+| Ceuta   | 1       |
+| Denmark | 1       |
+| ...     | ...     |
 
 ### Uppgift 20
 
