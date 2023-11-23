@@ -187,8 +187,6 @@ Hämta medellängden på alla floder som är längre än 1000 kilometer, och ge 
 | medellängd |
 | ---------- |
 | 1480       |
-| 1650       |
-| ...        |
 
 ### Uppgift 14
 
