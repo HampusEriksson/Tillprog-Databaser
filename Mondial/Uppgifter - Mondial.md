@@ -382,7 +382,7 @@ Ta fram en tabell över länder med deras ratio mellan deras senaste rapporterad
 
 ### Uppgift 27
 
-Väldigt svår, över A-nivå
+##### Väldigt svår, över A-nivå
 
 Generera en tabell med de tre (3) städer med över 5 000 000 invånare som bildar den största triangeln mellan dem, mätt som den totala längden av alla tre triangelns sidor, samt den totala längden.
 Du får behandla världen som en Mercatorprojektion för att beräkna avstånd, det vill säga använda avståndsformler för ett plan, men du måste ta hänsyn till att norr/söder-kanterna och öst/väst-kanterna möts och hantera det.
@@ -399,7 +399,7 @@ Tips 2: Lös det enklare problemet med att beräkna de två städer som är län
 
 ### Uppgift 28
 
-Väldigt svår, över A-nivå
+##### Väldigt svår, över A-nivå
 
 Generera en tabell som innehåller floderna Rhen, Nilen och Amazonas, och den längsta totala längd som flodsystemen som matar in i var och en av dem innehåller (inklusive deras egna respektive längd). Du måste beräkna de respektive flodsystemen med biflodfloder rekursivt.
 
