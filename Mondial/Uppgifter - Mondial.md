@@ -40,7 +40,7 @@ Hämta namnet på huvudstaden i Zimbabwe
 
 #### Exempel korrekt utskrift
 
-| Name   |
+| Capital   |
 | ------ |
 | Harare |
 
